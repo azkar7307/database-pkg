@@ -18,8 +18,8 @@ with open('README.md', 'r', encoding='utf-8') as f:
     long_description = f.read()     
    
 
-__version__ = "0.0.4"
-REPO_NAME = "database-pkg" # mongodbconnectorpkg
+__version__ = "0.0.5"
+REPO_NAME = "database_pkg" # mongodbconnectorpkg
 PKG_NAME= "CRUDAutomation" # databaseautomation
 AUTHOR_USER_NAME = "azkar7307"
 AUTHOR_EMAIL = "azkar7307@gmail.com"
