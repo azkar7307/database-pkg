@@ -19,8 +19,8 @@ with open('README.md', 'r', encoding='utf-8') as f:
    
 
 __version__ = "0.0.4"
-REPO_NAME = "mongodbconnectorpkg"
-PKG_NAME= "databaseautomation"
+REPO_NAME = "database-pkg" # mongodbconnectorpkg
+PKG_NAME= "CRUDAutomation" # databaseautomation
 AUTHOR_USER_NAME = "azkar7307"
 AUTHOR_EMAIL = "azkar7307@gmail.com"
 
